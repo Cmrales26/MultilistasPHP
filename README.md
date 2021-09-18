@@ -1,4 +1,4 @@
-# MultiListas Bilioteca
+# MultiListas Bilioteca >  [Entrar al Repositorio Principal](https://github.com/jgabriel2g/tareaEstructura "Repositorio Principal")&copy;
 
 Primeramente, se Crearon los nodos los cuales posen los siguiente atributos:
 
